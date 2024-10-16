@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+    <person>
+        <id>1</id>
+        <name>mehdi</name>
+        <family>abbasi</family>
+    </person>
+    <person>
+        <id>2</id>
+        <name>ali</name>
+        <family>rezaie</family>
+    </person>
+    <person>
+        <id>3</id>
+        <name>ahmad</name>
+        <family>javadi</family>
+    </person>
+</people>
